@@ -1,7 +1,7 @@
 # Esse é repositório que possui um projeto de navegação
 * Usamos possui 3 tipos de navegação
 
-<img src="../../dev/imagem.png">
+<img src="./explicacao.png">
 
 > Breve Imagem que explica em imagens como é cada 
 
