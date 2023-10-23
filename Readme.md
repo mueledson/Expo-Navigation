@@ -18,7 +18,6 @@
     
     ````
         https://reactnavigation.org/docs/drawer-based-navigation
-    
     ````
     
     ### Stack
