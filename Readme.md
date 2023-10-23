@@ -3,7 +3,7 @@
 
 <img src="./explicacao.png">
 
-> Breve Imagem que explica em imagens como é cada 
+> Breve Imagem que explica em imagens como é cada navegação
 
 * Aqui está a documentação de cada um
 
